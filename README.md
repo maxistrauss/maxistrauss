@@ -1,10 +1,8 @@
 # Hi, I'm Max
 
 Master's student in Computer Science (AI & Data Science) at OTH Regensburg, focused on **computer vision**.
-Working student in industry: developing a fully automated data-labeling pipeline for computer vision (infrared imagery).
 
 - Interests: object detection, vision transformers, infrared / multispectral imaging, generative models
-- Open to computer vision / ML roles in Switzerland from 2027
 
 ## Computer Vision
 
@@ -17,7 +15,7 @@ Working student in industry: developing a fully automated data-labeling pipeline
 
 | Project | What | Tech |
 |---|---|---|
-| [Aluminium Price Forecasting](https://github.com/maxistrauss/aluminim-price-prediction-fpp) | Baselines vs. ML vs. LSTM/GRU/Transformer for metal price returns | scikit-learn, XGBoost, PyTorch |
+| [Aluminium Price Forecasting](https://github.com/maxistrauss/aluminium-price-forecasting) | Baselines vs. ML vs. LSTM/GRU/Transformer for metal price returns | scikit-learn, XGBoost, PyTorch |
 
 ## Software Engineering
 
@@ -25,6 +23,7 @@ Working student in industry: developing a fully automated data-labeling pipeline
 |---|---|---|
 | [Muskel Management](https://github.com/maxistrauss/muskel-management-sw) | Gym management web app with payments, 2FA, REST API | Spring Boot, Thymeleaf, Docker |
 | [Classifieds Platform](https://github.com/maxistrauss/DSQL-Lindner-Strauss-Kleinanzeigenplattform) | Classifieds web app on MongoDB | Spring Boot, MongoDB |
+| [Slot Machine](https://github.com/maxistrauss/Spielautomat) | Early Java project: slot machine game with GUI and jackpot | Java, Swing |
 
 ## Tech stack
 
