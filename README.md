@@ -1,7 +1,7 @@
 # Hi, I'm Max
 
 Master's student in Computer Science (AI & Data Science) at OTH Regensburg, focused on **computer vision**.
-As a working student I build an automatic labeling tool for infrared image data.
+Working student in industry: developing a fully automated data-labeling pipeline for computer vision (infrared imagery).
 
 - Interests: object detection, vision transformers, infrared / multispectral imaging, generative models
 - Open to computer vision / ML roles in Switzerland from 2027
